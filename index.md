@@ -50,7 +50,7 @@ You can access the code [here](https://github.com/InfantDerrick/csci5611/tree/ma
 
 ### Media
 
-[Main Demo](https://youtu.be/DqYLLQlvAAQ).
+[Main Demo (Dance)](https://youtu.be/DqYLLQlvAAQ).
 
 [Collision Demo](https://youtu.be/G7Fb5YU53-E).
 
